@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Sellouk
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning java and jee
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me by mail
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me by mail : mohamedsellouk99@gmail.com
 
-<!---
-Sellouk/Sellouk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
